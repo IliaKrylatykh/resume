@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "..\\html-course\\practice\\imgs"
+	},
+	{
+		"path": "..\\html-course\\My resume"
+	},
+	{
+		"path": "..\\css-course"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "myresume"
+  }
+}
