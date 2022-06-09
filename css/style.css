@@ -1,0 +1,186 @@
+body {
+  background-color: rgba(16, 190, 202, 0.933);
+}
+
+.contaner {
+}
+
+.block:hover {
+  background-color: brown;
+}
+.block:active {
+  background-color: rgb(218, 126, 14);
+}
+
+.block {
+  width: 600px;
+  margin: auto;
+  background-color: aqua;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+  justify-content: space-around;
+}
+
+.block__1:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__1:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+
+.block__1 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+
+.block__2:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__2:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+
+.block__2 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+
+.block__3:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__3:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+.block__3 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+.block__4:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__4:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+.block__4 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+.block__5:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__5:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+.block__5 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+.block__6:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__6:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+.block__6 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+.block__7:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__7:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+.block__7 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+.block__8:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__8:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+.block__8 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+.block__9:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__9:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+.block__9 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+.block__10:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__10:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+.block__10 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+.block__11:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__11:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+.block__11 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
+.block__12:hover {
+  background-color: rgb(46, 177, 41);
+}
+.block__12:active {
+  background-image: url(../img/cat2.jpg);
+  background-size: 100% auto;
+}
+
+.block__12 {
+  width: 100px;
+  background-color: blue;
+  height: 100px;
+  border: 5px solid whitesmoke;
+}
